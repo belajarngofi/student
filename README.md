@@ -56,6 +56,6 @@ cd repository
 
 # Run the program
 
-:1st_place_medal:
+🥇
 :seedling: Improve skills  
 :bulb: Learn concepts  
