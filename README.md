@@ -56,4 +56,6 @@ cd repository
 
 # Run the program
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
+:dart: Project Goals  
+:seedling: Improve skills  
+:bulb: Learn concepts  
