@@ -55,4 +55,5 @@ git clone https://github.com/username/repository.git
 cd repository
 
 # Run the program
-python main.py
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
