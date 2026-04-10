@@ -1,13 +1,58 @@
-<h1 align="center">Hello World!</h1>
+<div align="center">
 
-<p>My name is Kevin, and here are a few things I'm working on:</p>
+# ✨ [Nama Project Kamu] ✨
 
-<ul>
-  <li>Happy Coding</li>
-  <li>Software Product Sprint</li>
-  <li>Google Maps</li>
-</ul>
+<img src="link_gif_atau_gambar" width="200"/>
 
-<hr>
+### 💫 "Your short catchy tagline here"
 
-<p>I <strong>love</strong> nerding out about creative coding, so don't hesitate to reach out!</p>
+</div>
+
+---
+
+## 🌷 About This Project
+Hi! I'm **Anna** 👋  
+This project was created as part of my journey in learning programming and building my portfolio.  
+
+> 🌱 I believe small projects can lead to big skills.
+
+---
+
+## ⚡ Features
+✨ Easy to use  
+✨ Clean and simple design  
+✨ Useful for beginners  
+✨ [Tambahkan fitur kamu]
+
+---
+
+## 🛠️ Tech Stack
+<div align="center">
+
+💻 Python  
+🌐 HTML | CSS | JavaScript  
+🧠 [Library / tools kamu]
+
+</div>
+
+---
+
+## 📸 Preview
+<div align="center">
+
+<img src="link_screenshot_kamu" width="500"/>
+
+</div>
+
+---
+
+## 🚀 How to Run
+```bash
+# Clone this repository
+git clone https://github.com/username/repository.git
+
+# Open the project
+cd repository
+
+# Run the program
+python main.py
